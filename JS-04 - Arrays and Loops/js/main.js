@@ -14,4 +14,8 @@ fila.push("Sara","Agusto");
 console.log(fila); 
 fila.shift();
 console.log(fila);
+fila.splice(1,0,"Renata");
+console.log(fila);
+fila.push("Elena");
+console.log(fila);
 
